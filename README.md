@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@manurajput38267539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manurajput38267539" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manu-rajput-a29b97189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manu-rajput-a29b97189" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manu-rajput-b6a2a4212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manu-rajput-a29b97189" height="30" width="40" /></a>
 <a href="https://instagram.com/manurajput.offical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manurajput.offical" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/channel/ucwuaw8vvrlwjsvn0mgb6bna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucwuaw8vvrlwjsvn0mgb6bna" height="30" width="40" /></a>
 </p>
