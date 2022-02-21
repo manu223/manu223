@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Flutter [CHAT APP](under construction)
 
-- 🌱 I’m currently learning **ReactJs with Firebase**
+- 🌱 I’m currently learning **React JS with Firebase**
 
 - 📫 How to reach me **manurajput081@gmail.com**
 
