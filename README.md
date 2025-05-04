@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@manurajput38267539" target="blank"><img src="https://img.shields.io/twitter/follow/@manurajput38267539?logo=twitter&style=for-the-badge" alt="@manurajput38267539" /></a> </p>
 
-- 🔭 I’m currently working on Flutter [CHAT APP](under construction)
+- 🔭 I’m currently working on Edtech Website integrate all in Single Platform
 
-- 🌱 I’m currently learning **Python With MongoDB**
+- 🌱 I’m currently learning **Chatgpt + AI Tools**
 
-- 📫 How to reach me **manurajput081@gmail.com**
+- 📫 How to reach me **mrajput0781@outlook.com**
 
 - ⚡ Fun fact **Lazy-Programmer**
 
