@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Learner|Web-Desiger|Frontend-Designer|Wordpress Websites</h1>
-<h3 align="center">B.TECH 3rd Year STUDENT FROM Dronacharya Group of Institution (Affilated To Dr. A.P.J. Abdul Kalam Technical University)</h3>
+<h3 align="center">B.TECH STUDENT FROM Dronacharya Group of Institution (Affilated To Dr. A.P.J. Abdul Kalam Technical University) Passing Out 2020-2023 Batch</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu223&label=Profile%20views&color=0e75b6&style=flat" alt="manu223" /> </p>
 
